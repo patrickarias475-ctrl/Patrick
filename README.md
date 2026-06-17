@@ -4,7 +4,16 @@ Analista de Datos en formación y estudiante de Contaduría Pública. Mi enfoque
 
 ---
 
+### 💡 Especialidades
+* **Análisis Financiero y Contable:** Optimización de procesos operativos basados en datos.
+* **Visualización de Datos:** Creación de dashboards intuitivos bajo principios de comunicación clara.
+* **Automatización:** Desarrollo de scripts para limpieza, procesamiento y transformación de información.
+* **Modelado de Datos:** Implementación de soluciones escalables para toma de decisiones.
+
+---
+
 ### 🛠️ Competencias Técnicas
+
 <table>
   <tr>
     <td align="center" width="150">
@@ -35,3 +44,6 @@ Analista de Datos en formación y estudiante de Contaduría Pública. Mi enfoque
     </td>
   </tr>
 </table>
+
+---
+*Construyendo soluciones basadas en datos desde Tepic, Nayarit.*
