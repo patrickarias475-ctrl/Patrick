@@ -5,7 +5,6 @@ Analista de Datos en formación y estudiante de Contaduría Pública. Mi enfoque
 ---
 
 ### 🛠️ Competencias Técnicas
-
 <table>
   <tr>
     <td align="center" width="100">
@@ -35,15 +34,12 @@ Analista de Datos en formación y estudiante de Contaduría Pública. Mi enfoque
       <br><sub>Pandas</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/googlelookerstudio/4285F4" width="40" height="40" alt="Looker" />
-      <br><sub>Looker</sub>
+      <img src="https://cdn.simpleicons.org/looker/4285F4" width="40" height="40" alt="Looker" />
+      <br><sub>Looker Studio</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="40" height="40" alt="AWS" />
+      <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" alt="AWS" />
       <br><sub>AWS</sub>
     </td>
   </tr>
 </table>
-
----
-*Construyendo soluciones basadas en datos desde Tepic, Nayarit.*
