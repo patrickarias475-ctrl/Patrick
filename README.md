@@ -8,36 +8,33 @@ Analista de Datos en formación y estudiante de Contaduría Pública. Mi enfoque
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40" alt="Excel" />
-      <br><sub>Excel</sub>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="90" />
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="40" height="40" alt="Word" />
-      <br><sub>Word</sub>
+      <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="90" />
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/microsoftpowerpoint/D24726" width="40" height="40" alt="PowerPoint" />
-      <br><sub>PowerPoint</sub>
+      <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" width="90" />
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/postgresql/4169e1" width="40" height="40" alt="SQL" />
-      <br><sub>SQL</sub>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" width="90" />
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
-      <br><sub>Python</sub>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" />
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="Pandas" />
-      <br><sub>Pandas</sub>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="90" />
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/looker/4285F4" width="40" height="40" alt="Looker" />
-      <br><sub>Looker Studio</sub>
+      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" width="90" />
     </td>
     <td align="center" width="100">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" width="90" />
+    </td>
+  </tr>
+</table>
       <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" alt="AWS" />
       <br><sub>AWS</sub>
     </td>
