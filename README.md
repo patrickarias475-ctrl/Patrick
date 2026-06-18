@@ -76,8 +76,7 @@ Estudiante de Contaduría Pública con especialización en análisis de datos. M
 ### 📬 Contacto
 * 📧 **Email:** [Patrick.hernandez.arias@gmail.com](mailto:Patrick.hernandez.arias@gmail.com)
 * 📱 **Teléfono:** +52 311-877-6364
-* 🔗 **LinkedIn:** [Tu URL aquí]
-* 🐙 **GitHub:** [Tu URL aquí]
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/patrick-data-analyst/
 
 ---
 *Construyendo soluciones basadas en datos.*
